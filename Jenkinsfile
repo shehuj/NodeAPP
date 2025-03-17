@@ -1,7 +1,7 @@
 pipeline {
 	agent any
 	tools {
-		nodejs 'NodeJS'
+		nodejs 'ansible-nodejs'
 	}
 	environment {
 		DOCKER_HUB_CREDENTIALS_ID = 'jen-dockerhub'
