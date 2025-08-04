@@ -1,4 +1,4 @@
-# Simple_NodeJS_App
+# NodeJS_App
 Simple NodeJS App Deployment
 
 A simple Node.js application demonstrating basic setup and functionality. This repository provides a starting point for Node.js projects with an Express server.
